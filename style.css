@@ -18,3 +18,29 @@ body {
     font-family: arial, sans-serif;
     background-color: rgb(84, 154, 219)
 }
+
+header {
+    background-color: rgb(218, 116, 69)
+}
+
+header, footer {
+text-align: center;
+}
+
+/* typography */
+
+h1{
+    font-size: 50px;
+}
+
+h2{
+    font-size: 30px;
+}
+
+h1,h2,p,li{
+    padding-bottom: 0.5em;
+}
+
+.item {
+    background-color: rgb(76, 199, 178)
+}
