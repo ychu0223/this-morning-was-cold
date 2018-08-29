@@ -1,0 +1,20 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-size: 16px;
+    box-sizing: border-box;
+}
+
+img{
+    max-width: 100%;
+    height: auto;
+}
+
+iframe{
+    max-width: 100%
+}
+
+body {
+    font-family: arial, sans-serif;
+    background-color: rgb(84, 154, 219)
+}
